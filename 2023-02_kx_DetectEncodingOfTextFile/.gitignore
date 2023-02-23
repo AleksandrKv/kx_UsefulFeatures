@@ -1,0 +1,5 @@
+/build/
+/dist/
+/Pipfile
+/main.spec
+*tmp/
